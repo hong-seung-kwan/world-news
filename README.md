@@ -3,6 +3,8 @@
 React + TypeScript로 제작한 뉴스 웹 사이트입니다.  
 외부 뉴스 API를 통해 실시간 데이터를 불러오고, 성능 최적화 및 SEO 개선을 적용한 프로젝트입니다.
 
+배포 주소: https://world-news-lyart.vercel.app/
+
 ---
 
 ## 프로젝트 소개
